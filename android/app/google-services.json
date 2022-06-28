@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323747886351",
+    "project_id": "banane-110b1",
+    "storage_bucket": "banane-110b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323747886351:android:1f44d62dc3b8c2b8573a7a",
+        "android_client_info": {
+          "package_name": "com.banane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323747886351-8utroboksqfbcqajkj1hjkl52fug86av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgcYIJEHzDTnKZ1cwWSuV2HNfRWex8HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323747886351-8utroboksqfbcqajkj1hjkl52fug86av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
